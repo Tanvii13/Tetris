@@ -1,4 +1,4 @@
-# InSem2Project
+# Tetris
 
 ### Group Name : Titans
 ### Name : Tanvi Nakum
